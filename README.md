@@ -1,8 +1,6 @@
 # Secret Santa
 
-Check it live on [7025598136
-.github.io/secretsanta/](http://7025598136
-.github.io/secretsanta/).
+Check it live on [7025598136.github.io/secretsanta/](http://7025598136.github.io/secretsanta/).
 
 ## License (MIT)
 
